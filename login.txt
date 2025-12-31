@@ -1,0 +1,4 @@
+login init
+login home
+login id
+login pssword
